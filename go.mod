@@ -1,3 +1,3 @@
-module github.com/sanyanshan/sysh-util/v2.2.1
+module github.com/sanyanshan/sysh-util
 
 go 1.22
