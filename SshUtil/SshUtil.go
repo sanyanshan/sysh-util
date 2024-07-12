@@ -9,11 +9,11 @@ func OpenAndBindPortToLocal(connector Connector, remoteHost string, remotePort s
 
 type Connector struct {
 	// 主机地址
-	host string
+	Host string
 	// 端口
-	port int
+	Port int
 	// 用户名
-	user string
+	User string
 	// 密码
-	password string
+	Password string
 }
